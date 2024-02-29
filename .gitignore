@@ -5,3 +5,8 @@
 *.synctex.gz
 *.log
 *.gz
+*.tof
+*.toc
+*.bbl
+*.lof
+*.blg
